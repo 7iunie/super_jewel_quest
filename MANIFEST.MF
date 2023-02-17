@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+MIDlet-Data-Size: 20000
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: Super Jewel Quest
+MIDlet-Info-URL: http://www.iplay.com
+MIDlet-Icon: /i.png
+Created-By: 1.5.0_10-b03 (Sun Microsystems Inc.)
+Ant-Version: Apache Ant 1.6.5
+MIDlet-Vendor: I-play
+MIDlet-1: Super Jewel Quest, /i.png, com.iplay.jq2008.JQ2008
+MIDlet-Version: 0.0.44
+MicroEdition-Profile: MIDP-2.0
+
